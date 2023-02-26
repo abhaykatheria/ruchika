@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ruchika/static/css/main.5115e582.css",
-    "main.js": "/ruchika/static/js/main.246cc4a2.js",
+    "main.js": "/ruchika/static/js/main.88dc57ac.js",
     "static/media/Lights - 26607.mp4": "/ruchika/static/media/Lights - 26607.9ba442f8f208f7b9bdc2.mp4",
     "static/media/blog-3.jpg": "/ruchika/static/media/blog-3.91f80c0fe0c8eb09f47b.jpg",
     "static/media/blog-1.jpg": "/ruchika/static/media/blog-1.3f9fe03b359c6bc6457d.jpg",
@@ -181,10 +181,10 @@
     "static/media/google.svg": "/ruchika/static/media/google.849df390f918ae90ada80239e1faa3a3.svg",
     "index.html": "/ruchika/index.html",
     "main.5115e582.css.map": "/ruchika/static/css/main.5115e582.css.map",
-    "main.246cc4a2.js.map": "/ruchika/static/js/main.246cc4a2.js.map"
+    "main.88dc57ac.js.map": "/ruchika/static/js/main.88dc57ac.js.map"
   },
   "entrypoints": [
     "static/css/main.5115e582.css",
-    "static/js/main.246cc4a2.js"
+    "static/js/main.88dc57ac.js"
   ]
 }
